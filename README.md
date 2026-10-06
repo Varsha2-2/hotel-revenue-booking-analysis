@@ -24,9 +24,9 @@ The project is built upon a relational star schema composed of 3 dimension table
 
 > 📁 **Repository Artifacts Note:** High-resolution presentation layouts are detailed below. To inspect the live data models, entity relationships, and calculation mechanics that power these visuals, you can download the raw working workbooks directly via these secure download vectors:
 > 
-> * 📊 [Download Raw Power BI Model (.pbix)](PASTE_YOUR_GOOGLE_DRIVE_POWERBI_LINK)
-> * 🎨 [Download Raw Tableau Packaged Workbook (.twbx)](PASTE_YOUR_GOOGLE_DRIVE_TABLEAU_LINK)
-> * 📈 [Download Raw Excel Source Model (.xlsx)](PASTE_YOUR_GOOGLE_DRIVE_EXCEL_LINK)
+> * 📊 [Download Raw Power BI Model (.pbix)](https://drive.google.com/file/d/1Z84GDfClPerjgWZQMbRFjVj6mGh0lTL0/view?usp=sharing)
+> * 🎨 [Download Raw Tableau Packaged Workbook (.twbx)](https://drive.google.com/file/d/1ehJkIY-Wg_8zOzpYZeioSea7-bL8WfRO/view?usp=sharing)
+> * 📈 [Download Raw Excel Source Model (.xlsx)](https://docs.google.com/spreadsheets/d/1iEQKhh8j-jeWMVlsY4zL-5z8BbfwoTwX/edit?usp=sharing&ouid=101703711638777030705&rtpof=true&sd=true)
 
 ---
 
