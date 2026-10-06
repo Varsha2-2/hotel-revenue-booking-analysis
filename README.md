@@ -35,16 +35,17 @@ The project is built upon a relational star schema composed of 3 dimension table
 > 💡 **Project Delivery Note:** High-resolution operational layout previews are embedded below for immediate documentation review. The interactive application layers can be accessed utilizing the cloud data download framework established above.
 
 ### 1. Power BI Executive Interface
-*(Drop your Power BI dashboard screenshot here)*
+![Power BI Dashboard Layout](Dashboards/hospitality_powerbi_dashboard.png)
 * **Focus Layer:** Advanced DAX calculations establishing robust centralized KPIs (`Occupancy %`, `RevPAR`, `Cancellation Rate`) filterable by room class and city.
 
 ### 2. Tableau Strategic View
-*(Drop your Tableau dashboard screenshot here)*
+![Tableau Dashboard Layout](Dashboards/hospitality_tableau_dashboard.png)
 * **Focus Layer:** Deep-dive visual scatter charts highlighting booking platform yields (e.g., MakeMyTrip vs. Direct Bookings) alongside room category revenue variations.
 
 ### 3. Excel Operational Model
-*(Drop your Excel dashboard screenshot here)*
+![Excel Dashboard Layout](Dashboards/hospitality_excel_dashboard.png)
 * **Focus Layer:** Clean, automated Pivot Tables, dynamic slicers, and conditional formatting maps tracking capacity utilization levels across properties like *Atliq Grands* and *Atliq Exotica*.
+
 
 ---
 
